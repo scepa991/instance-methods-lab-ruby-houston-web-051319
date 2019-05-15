@@ -7,5 +7,5 @@ end
 
 
 
-Fido = Dog.new
+fido = Dog.new
 fido.bark
